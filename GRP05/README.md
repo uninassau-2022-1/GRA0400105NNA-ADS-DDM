@@ -2,6 +2,6 @@
 
 Fazem parte do desenvolvimento deste projeto os membros:
 
-* Nome Sobrenome - <email@dominio.com>
-* Nome Sobrenome - <email@dominio.com>
-* Nome Sobrenome - <email@dominio.com>
+* Fabricio Andre - <leitefabricio978@hotmail.com>
+* Julia  - <email@dominio.com>
+
